@@ -1,11 +1,17 @@
 # Análisis de Ventas en Amazon y Sistema de Recomendación
 
-¡Bienvenidos a mi proyecto de Análisis de Ventas en Amazon!
+## 💡 Objetivos
 
-En este proyecto, analizo el dataset "Amazon Sales Dataset" disponible en Kaggle para identificar preferencias de clientes, patrones de compra, y comportamientos clave. Además, desarrollo un sistema de recomendación que sugiere productos a los usuarios basándose en sus intereses y comportamientos anteriores.
+El objetivo de este proyecto es analizar más de 1,000 productos de Amazon, utilizando datos de calificaciones, reseñas y descuentos para extraer información relevante sobre el comportamiento de los consumidores y la percepción de los productos. Con base en este análisis, se busca desarrollar un sistema de recomendación personalizado que sugiera productos a los usuarios según sus intereses y comportamientos de compra anteriores, mejorando así la experiencia de compra y facilitando la toma de decisiones informadas.
 
-## Objetivos del Proyecto
+## 🔗 Recursos
+[Amazon Sales Dataset](#https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
-- **Explorar los datos** para entender las tendencias de ventas y las preferencias de los clientes.
-- **Identificar patrones de compra** que pueden ayudar a mejorar la estrategia de ventas.
-- **Desarrollar un sistema de recomendación** que sugiera productos relevantes a los usuarios basándose en sus interacciones previas.
+## Bibliotecas utilizadas
+ - Pandas
+ - Matplotlib
+ - Seaborn
+ - WordCloud
+ - Surprise
+
+
